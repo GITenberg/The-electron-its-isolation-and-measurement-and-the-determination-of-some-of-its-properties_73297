@@ -1,0 +1,28 @@
+_repo: The-electron-its-isolation-and-measurement-and-the-determination-of-some-of-its-properties_73297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Millikan, Robert Andrews
+    gutenberg_agent_id: '57027'
+    url: http://www.gutenberg.org/2009/agents/57027
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73297'
+language: en
+pgterms:marc904: https://archive.org/details/electronitsisola0000mill/mode/1up
+pgterms:marc905: 20231006100136millikan
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aChicago :$bThe University of Chicago press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The electron, its isolation and measurement and the determination of some of
+  its properties
+url: http://www.gutenberg.org/ebooks/73297
